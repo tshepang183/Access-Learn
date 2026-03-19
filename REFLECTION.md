@@ -1,9 +1,15 @@
-# Reflection
+# Reflection – AccessLearn
 
-During this assignment, one of the main challenges was balancing the needs of different stakeholders.
+## Challenges Faced
 
-For example, customers require fast delivery and real-time updates, while IT staff focus on system stability and security. These needs sometimes conflict, as real-time updates can increase system load.
+One of the main challenges was balancing the needs of different stakeholders. Students require low-bandwidth access, while lecturers may want richer content such as videos.
 
-Another challenge was defining clear and measurable requirements. It was important to avoid vague statements and instead use specific criteria such as response times and system capacity.
+Another challenge was designing a system that is simple enough for users with low digital literacy while still providing useful features.
 
-Overall, this assignment improved my understanding of how to gather requirements and ensure they align with stakeholder needs while maintaining system quality.
+## Trade-offs
+
+To address these challenges, the system prioritizes text-based content instead of heavy multimedia. This reduces data usage but limits interactive features.
+
+## Learning Outcome
+
+This assignment helped in understanding how to translate stakeholder needs into clear functional and non-functional requirements. It also showed the importance of designing systems that are inclusive and accessible.
